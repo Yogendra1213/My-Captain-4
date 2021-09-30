@@ -4,7 +4,7 @@ def most_frequent(stri):
     s=0
     m=0
     p=0
-    for j in st:
+    for j in stri:
         if j=="i" or j=="I":
             i+=1
         if j=="s" or j=="S":
